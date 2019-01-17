@@ -5,6 +5,8 @@ import Header from './commons/template/Header'
 import Sidebar from './commons/template/Sidebar'
 import Footer from './commons/template/Footer';
 
+import Routes from './Routes'
+
 class App extends Component {
   render() {
     return (
@@ -12,7 +14,7 @@ class App extends Component {
         <Header />
         <Sidebar />
         <div className="content-wrapper">
-          <h1>Conteudo</h1>
+          <Routes />
         </div>
         <Footer />
       </div>
