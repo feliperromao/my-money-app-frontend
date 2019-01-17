@@ -5,6 +5,7 @@ import 'admin-lte/plugins/slimScroll/jquery.slimscroll.min'
 import 'admin-lte/dist/js/app.min'
 
 import 'font-awesome/css/font-awesome.min.css'
+// import '@fortawesome/fontawesome-free/css/all.min.css'
 import 'ionicons/dist/css/ionicons.min.css'
 import 'admin-lte/bootstrap/css/bootstrap.min.css'
 import 'admin-lte/dist/css/AdminLTE.min.css'

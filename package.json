@@ -23,6 +23,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.6.3",
     "admin-lte": "^2.3.6",
     "adminlte-reactjs": "^1.0.6",
     "axios": "^0.18.0",

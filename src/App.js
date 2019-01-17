@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 
 import Header from './commons/template/Header'
 import Sidebar from './commons/template/Sidebar'
+import Footer from './commons/template/Footer';
 
 class App extends Component {
   render() {
@@ -10,6 +11,10 @@ class App extends Component {
       <div className="wrapper">
         <Header />
         <Sidebar />
+        <div className="content-wrapper">
+          <h1>Conteudo</h1>
+        </div>
+        <Footer />
       </div>
     );
   }
